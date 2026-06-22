@@ -1,5 +1,6 @@
-# 💫 About Me:
- I'm Althaf K, a Computer Science and Engineering graduate with a strong interest in Full Stack Web Development and modern software technologies.🔹 Currently focused on MERN Stack Development (MongoDB, Express.js, React.js, Node.js)<br>🔹 Building practical web applications through hands-on projects and continuous learning<br>🔹 Experienced with HTML, CSS, JavaScript, React, Git, GitHub, MySQL, and MongoDB<br>🔹 Completed Web Development Internship and MERN Stack Training<br>🔹 Passionate about creating scalable, user-friendly, and efficient software solutions<br>🔹 Interested in Software Engineering, Web Development, Emerging Technologies, and AI-powered applications<br><br>
+# 🦾🥷🏼 About Me:
+ I'm Althaf K, a Computer Science and Engineering graduate with a strong interest in Full Stack Web Development and modern software technologies.
+<br>🔹 Currently focused on MERN Stack Development (MongoDB, Express.js, React.js, Node.js)<br>🔹 Building practical web applications through hands-on projects and continuous learning<br>🔹 Experienced with HTML, CSS, JavaScript, React, Git, GitHub, MySQL, and MongoDB<br>🔹 Completed Web Development Internship and MERN Stack Training<br>🔹 Passionate about creating scalable, user-friendly, and efficient software solutions<br>🔹 Interested in Software Engineering, Web Development, Emerging Technologies, and AI-powered applications<br><br>
 
 
 ## 🌐 Socials:
