@@ -1,7 +1,47 @@
 # 🥷🏼 About Me:
- I'm Althaf K, a Computer Science and Engineering graduate with a strong interest in Full Stack Web Development and modern software technologies.
-<br>🔹 Currently focused on MERN Stack Development (MongoDB, Express.js, React.js, Node.js)<br>🔹 Building practical web applications through hands-on projects and continuous learning<br>🔹 Experienced with HTML, CSS, JavaScript, React, Git, GitHub, MySQL, and MongoDB<br>🔹 Completed Web Development Internship and MERN Stack Training<br>🔹 Passionate about creating scalable, user-friendly, and efficient software solutions<br>🔹 Interested in Software Engineering, Web Development, Emerging Technologies, and AI-powered applications<br><br>
+### Hey, I'm Althaf K.
 
+**Full Stack Developer | MERN | Software Engineering | AI**
+I build practical web applications with a focus on clean interfaces, reliable backend systems, and scalable development.
+
+🧩 **What I Do**
+- Build full-stack applications using the **MERN stack**
+- Develop responsive and interactive interfaces with **React, TypeScript & Tailwind CSS**
+- Design and integrate **REST APIs** and database-driven applications
+- Work with **MongoDB, MySQL & Firebase**
+- Explore **AI integration, automation and modern web technologies**
+- Turn NEW ideas and requirements into functional software products
+
+🔭 **Currently Exploring**
+
+`Advanced React` · `TypeScript` · `REST APIs` · `AI Integration` · `System Design` · `Cloud & Deployment`
+
+🧠 **How I Build**
+
+> **Learn → Build → Test → Improve → Ship**
+
+I believe the best way to improve as a developer is to build real projects, understand the problems behind them, and continuously improve the solution.
+
+📌 **Areas of Interest**
+
+- Full Stack Web Development
+- Software Engineering
+- AI-powered Applications
+- Automation
+- UI/UX & Product Development
+- Developer Tools & Modern Web Technologies
+
+🌐 **Beyond Code**
+
+I'm also interested in **business, entrepreneurship, content creation, technology and product ideas** — especially where software can solve real-world problems.
+
+---
+
+### 📍 Kerala, India
+
+**Full Stack Developer • MERN • Software Engineering**
+
+_Open to collaboration, freelance projects and interesting technical ideas._
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/althafx17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/althaf-k17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amalthaf111@gmail.com) 
