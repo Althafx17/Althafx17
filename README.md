@@ -4,7 +4,7 @@
 **Full Stack Developer | MERN | Software Engineering | AI**
 I build practical web applications with a focus on clean interfaces, reliable backend systems, and scalable development.
 
-🧩 **What I Do**
+X **What I Do**
 - Build full-stack applications using the **MERN stack**
 - Develop responsive and interactive interfaces with **React, TypeScript & Tailwind CSS**
 - Design and integrate **REST APIs** and database-driven applications
@@ -12,17 +12,17 @@ I build practical web applications with a focus on clean interfaces, reliable ba
 - Explore **AI integration, automation and modern web technologies**
 - Turn NEW ideas and requirements into functional software products
 
-🔭 **Currently Exploring**
+X **Currently Exploring**
 
 `Advanced React` · `TypeScript` · `REST APIs` · `AI Integration` · `System Design` · `Cloud & Deployment`
 
-🧠 **How I Build**
+X **How I Build**
 
 > **Learn → Build → Test → Improve → Ship**
 
 I believe the best way to improve as a developer is to build real projects, understand the problems behind them, and continuously improve the solution.
 
-📌 **Areas of Interest**
+X **Areas of Interest**
 
 - Full Stack Web Development
 - Software Engineering
@@ -31,22 +31,22 @@ I believe the best way to improve as a developer is to build real projects, unde
 - UI/UX & Product Development
 - Developer Tools & Modern Web Technologies
 
-🌐 **Beyond Code**
+X **Beyond Code**
 
 I'm also interested in **business, entrepreneurship, content creation, technology and product ideas** — especially where software can solve real-world problems.
 
 ---
 
-### 📍 Kerala, India
+### --> Kerala, India
 
-**Full Stack Developer • MERN • Software Engineering**
+**Full Stack Developer x•x MERN x•x Software Engineering**
 
 _Open to collaboration, freelance projects and interesting technical ideas._
 
-## 🌐 Socials:
+## x Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/althafx17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/althaf-k17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amalthaf111@gmail.com) 
 
-# 💻 Tech Stack:
+# x Tech Stack:
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
@@ -73,15 +73,15 @@ _Open to collaboration, freelance projects and interesting technical ideas._
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-# 📊 GitHub Stats:
+# x GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Althafx17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Althafx17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Althafx17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## x GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Althafx17&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### x Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
