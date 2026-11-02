@@ -15,7 +15,7 @@ X **What I Do**
 X **Currently Exploring**
 
 `Advanced React` · `TypeScript` · `REST APIs` · `AI Integration` · `System Design` · `Cloud & Deployment`· `n8n`· `ai agents`·  `hugging face `·  `Tailwind CSS`· 
-
+ `MCP (Model Context Protocol)`· 
 
 
 X **How I Build**
