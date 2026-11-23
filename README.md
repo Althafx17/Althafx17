@@ -4,7 +4,7 @@
 **Full Stack Developer | MERN | Software Engineering | AI**
 I build practical web applications with a focus on clean interfaces, reliable backend systems, and scalable development.
 
-X **What I Do**
+X. **What I Do**
 - Build full-stack applications using the **MERN stack**
 - Develop responsive and interactive interfaces with **React, TypeScript & Tailwind CSS**
 - Design and integrate **REST APIs** and database-driven applications
@@ -12,20 +12,20 @@ X **What I Do**
 - Explore **AI integration, automation and modern web technologies**
 - Turn NEW ideas and requirements into functional software products
 
-X **Currently Exploring**
+X. **Currently Exploring**
 
 `Advanced React` · `TypeScript` · `REST APIs` · `AI Integration` · `System Design` · `Cloud & Deployment`· `n8n`· `ai agents`·  `hugging face `·  `Tailwind CSS`· 
  `MCP (Model Context Protocol)`· `next js`.
  curently exploring on backend :`python`
 
 
-X **How I Build**
+X. **How I Build**
 
 > **Learn → Build → Test → Improve → Ship**
 
 I believe the best way to improve as a developer is to build real projects, understand the problems behind them, and continuously improve the solution.
 
-X **Areas of Interest**
+X. **Areas of Interest**
 
 - Full Stack Web Development
 - Software Engineering
@@ -34,7 +34,7 @@ X **Areas of Interest**
 - UI/UX & Product Development
 - Developer Tools & Modern Web Technologies
 
-X **Beyond Code**
+X. **Beyond Code**
 
 I'm also interested in **business, entrepreneurship, content creation, technology and product ideas** — especially where software can solve real-world problems.
 
