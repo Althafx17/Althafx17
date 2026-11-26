@@ -1,5 +1,7 @@
 # 🥷🏼 About Me:
 ### Hey, I'm Althaf K.
+<img width="735" height="412" alt="code cool" src="https://github.com/user-attachments/assets/9dd94ea5-3268-4a1e-a419-171feb2176f1" />
+
 
 **Full Stack Developer | MERN | Software Engineering | AI**
 I build practical web applications with a focus on clean interfaces, reliable backend systems, and scalable development.
